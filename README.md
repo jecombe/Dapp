@@ -1,4 +1,4 @@
-# Daapp
+# Dapp
 
 > Développement d'une application decentralisé.
 
