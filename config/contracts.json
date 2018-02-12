@@ -15,6 +15,11 @@
     ],
     "gas": "auto",
     "contracts": {
+		"Token":{
+			"args":[
+				1000
+			]
+		}
     }
   }
 }
