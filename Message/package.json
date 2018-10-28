@@ -1,0 +1,16 @@
+{
+  "name": "Message",
+  "version": "0.0.1",
+  "description": "",
+  "scripts": {
+    "test": "embark test"
+  },
+  "author": "",
+  "license": "ISC",
+  "homepage": "",
+  "devDependencies": {},
+  "dependencies": {
+    "jquery": "^3.3.1",
+    "wget": "0.0.1"
+  }
+}
