@@ -1,0 +1,26 @@
+{
+	"contractName": "Hello",
+	"abi": 
+  [
+	  {
+		  "constant": true,
+		  "inputs": [],
+		  "name": "sayHello",
+		  "outputs": [
+			  {
+				  "name": "",
+				  "type": "string"
+			  }
+		  ],
+		  "payable": false,
+		  "stateMutability": "pure",
+		  "type": "function"
+	  }
+  ],
+  "address": "0x78f26A1797f0b17b0d0b74cC9Ceed31D99C65e2d"
+	
+  
+  }
+  
+  
+  
