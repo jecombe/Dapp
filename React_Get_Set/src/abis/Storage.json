@@ -1,0 +1,37 @@
+{
+	"contractName": "Storage",
+	"abi":
+  [
+		{
+ 		 "constant": false,
+ 		 "inputs": [
+ 			 {
+ 				 "internalType": "string",
+ 				 "name": "x",
+ 				 "type": "string"
+ 			 }
+ 		 ],
+ 		 "name": "set",
+ 		 "outputs": [],
+ 		 "payable": false,
+ 		 "stateMutability": "nonpayable",
+ 		 "type": "function"
+ 	 },
+ 	 {
+ 		 "constant": true,
+ 		 "inputs": [],
+ 		 "name": "get",
+ 		 "outputs": [
+ 			 {
+ 				 "internalType": "string",
+ 				 "name": "",
+ 				 "type": "string"
+ 			 }
+ 		 ],
+ 		 "payable": false,
+ 		 "stateMutability": "view",
+ 		 "type": "function"
+ 	 }
+  ],
+  "address": "0xEE06A94F905651A65580E8ac1582A17F30859867"
+  }
